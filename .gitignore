@@ -2,7 +2,7 @@
 # However, in order to prevent issues, they are ignored here.
 .DS_STORE
 .idea
-.vscode/*
+/.vscode
 !.vscode/launch.json
 *.log
 *.tsbuildinfo
